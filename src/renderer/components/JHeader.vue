@@ -1,8 +1,8 @@
 <template>
   <div>
-    <img src="../assets/images/icons/min.png" />
-    <img src="../assets/images/icons/max.png" />
-    <img src="../assets/images/icons/close.png" />
+    <i class="el-icon-minus"></i>
+    <i class="el-icon-full-screen"></i>
+    <i class="el-icon-close"></i>
   </div>
 </template>
 

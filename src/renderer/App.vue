@@ -33,12 +33,12 @@
 .main {
   display: flex;
   flex-direction: row;
+  background: #545c64;
 }
 .sider-bar {
-  background: red;
   float: left;
-  width: 220px;
-  height: 100vh;
+  /* width: 220px; */
+  /* height: 100vh; */
 }
 
 .body-frame {
@@ -48,14 +48,14 @@
 }
 
 .body-frame .header {
-  background: gray;
+  background: #545c64;
   height: 32px;
   text-align: right;
   -webkit-app-region: drag;
 }
 
 .body-frame .content {
-  background: yellow;
+  background: #545c64;
   height: calc(100vh - 32px);
 }
 </style>
